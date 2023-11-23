@@ -55,12 +55,12 @@ The code will do it for you!
 
 The code will do it for you!
 
-> Code will download i3D model pretrained on Kinetics-400 from "https://onedrive.live.com/download?cid=78EEF3EB6AE7DBCB&resid=78EEF3EB6AE7DBCB%21199&authkey=AApKdFHPXzWLNyI"
+> Code will download i3D model pretrained on [Kinetics-400](https://onedrive.live.com/download?cid=78EEF3EB6AE7DBCB&resid=78EEF3EB6AE7DBCB%21199&authkey=AApKdFHPXzWLNyI)
 > Use `models/fvd/convert_tf_pretrained.py` to make `i3d_pretrained_400.pt`
 
 ### 3. Datasets
 
-You can download these datasets such  as RWTH-2014(https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/),RWTH-2014T (https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) and AUTSL(https://chalearnlap.cvc.uab.cat/dataset/40/data/66/description/).
+You can download these datasets such  as [RWTH-2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/),[RWTH-2014T](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) and [AUTSL](https://chalearnlap.cvc.uab.cat/dataset/40/data/66/description/).
 
 > **How the data was processed:**
 > 1. Download  AUTSL dataset to `/path/to/AUTSL`:\
