@@ -2,4 +2,4 @@
 
 
 ## Method
-![method](framwork_10.pdf "method")
+![method](pic/framework_10.pdf "method")
