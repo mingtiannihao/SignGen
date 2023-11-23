@@ -15,8 +15,8 @@ Official repo for [SignGen: End-to-End Sign Language Video Generation with Laten
 #### RWTH-2014
 
 ![case1](pic/gif/1.gif "case1") ![case2](pic/gif/2.gif "case2") ![case3](pic/gif/3.gif "case3") ![case4](pic/gif/4.gif "case4")
-![case4](pic/gif/5.gif "case4") ![case4](pic/gif/6.gif "case4") ![case4](pic/gif/7.gif "case4") ![case4](pic/gif/8.gif "case4")
-![case4](pic/gif/9.gif "case4") ![case4](pic/gif/10.gif "case4")
+![case4](pic/gif/5.gif "case4") ![case4](pic/gif/6.gif "case4") ![case4](pic/gif/10.gif "case4") ![case4](pic/gif/11.gif "case4")
+![case4](pic/gif/12.gif "case4") 
 
 
 ## Running by Yourself
