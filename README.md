@@ -60,7 +60,7 @@ The code will do it for you!
 
 ### 3. Datasets
 
-You can download these datasets such  as RWTH-2014(https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/),RWTH-2014T(https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) and AUTSL(https://chalearnlap.cvc.uab.cat/dataset/40/data/66/description/).
+You can download these datasets such  as RWTH-2014(https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/),RWTH-2014T (https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) and AUTSL(https://chalearnlap.cvc.uab.cat/dataset/40/data/66/description/).
 
 > **How the data was processed:**
 > 1. Download  AUTSL dataset to `/path/to/AUTSL`:\
