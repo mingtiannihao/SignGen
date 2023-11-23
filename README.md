@@ -44,7 +44,7 @@ conda create -n  xxx  python==3.8.5
 
 Then you  can create the same environment as ours with the following command:
 ```
- pip install -r requirements.txt # install all requirements # install all requirements
+ pip install -r requirements.txt # install all requirements 
 ```
 
 ### 2. Download model weights
