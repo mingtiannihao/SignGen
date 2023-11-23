@@ -52,7 +52,7 @@ Then you  can create the same environment as ours with the following command:
 #### For LPIPS
 
 The code will do it for you!
-> Code will download https://download.pytorch.org/models/alexnet-owt-7be5be79.pth and move it into: `models/weights/v0.1/alex.pth`
+> Code will download [Alex](https://download.pytorch.org/models/alexnet-owt-7be5be79.pth) and move it into: `models/weights/v0.1/alex.pth`
 
 #### For FVD
 
