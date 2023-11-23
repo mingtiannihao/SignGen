@@ -8,11 +8,10 @@ Official repo for [SignGen: End-to-End Sign Language Video Generation with Laten
 
 ![method](pic/framework_10.png "method")
 
-![case1](pic/gif/1.gif "case1")
 
 ## Experiment Results
 
-![case1](pic/gif/1.gif "case1") ![case2](pic/gif/2.gif "case2")
+![case1](pic/gif/1.gif "case1") ![case2](pic/gif/2.gif "case2") ![case3](pic/gif/3.gif "case3") ![case4](pic/gif/4.gif "case4")
 
 
 ## Running by Yourself
