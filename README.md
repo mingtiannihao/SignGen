@@ -6,7 +6,11 @@ Official repo for [SignGen: End-to-End Sign Language Video Generation with Laten
 
 ## Method
 
-![method](pic/framework_10.png "method")
+
+<div align="center">
+	<img src="pic/framework_10.png" alt="Editor" width="900">
+</div>
+
 
 
 
