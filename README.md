@@ -8,6 +8,8 @@ Official repo for [SignGen: End-to-End Sign Language Video Generation with Laten
 
 ![method](pic/framework_10.png "method")
 
+![case1](pic/gif/1.gif "case1")
+
 
 ## Running by Yourself
 
