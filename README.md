@@ -1,6 +1,7 @@
 <h1 align="center"> SignGen: End-to-End Sign Language Video Generation with Latent Diffusion</h1>
 
-Official repo for [SignGen: End-to-End Sign Language Video Generation with Latent Diffusion]([https://arxiv.org/pdf/2306.02018.pdf](https://openreview.net/forum?id=qLuwGkbEAs))
+Official repo for [SignGen: End-to-End Sign Language Video Generation with Latent Diffusion]([https://openreview.net/forum?id=qLuwGkbEAs])
+
 
 
 ## Method
