@@ -69,7 +69,7 @@ You can download these datasets such  as [RWTH-2014](https://www-i6.informatik.r
 > 2. Convert 128x128 images to HDF5 format:\
 > `python datasets/sign_language_convert.py --sl_dir 'datasets/videos' --split 'train'  --out_dir 'datasets/signLanguages/train' --image_size 128  --force_h5 False
 
-### Training
+### Training -The code is coming soon.
 
 You can train  with 2 GPUs using:
 ```
