@@ -71,7 +71,4 @@ You can download these datasets such  as [RWTH-2014](https://www-i6.informatik.r
 
 ### Training -The code is coming soon.
 
-You can train  with 2 GPUs using:
-```
-CUDA_VISIBLE_DEVICES=0,1 python main.py --config configs/sign_language.yml --data_path data_path --exp log_path --ni
-```
+
